@@ -11,3 +11,4 @@ Dus ik open de foto's later en ik zie een auto die lijkt alsof ie door een schre
 Nou blijkt dus dat de fietsen bezorger de helft van de bestelling was vergeten en dus extra staal nodig had..
 
 ewa
+playstation
