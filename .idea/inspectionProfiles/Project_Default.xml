@@ -4,20 +4,24 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
-          <list size="11">
+          <list size="8">
             <item index="0" class="java.lang.String" itemvalue="pandas" />
-            <item index="1" class="java.lang.String" itemvalue="pyodbc" />
-            <item index="2" class="java.lang.String" itemvalue="sentry-sdk" />
-            <item index="3" class="java.lang.String" itemvalue="zyppnotify" />
-            <item index="4" class="java.lang.String" itemvalue="SQLAlchemy" />
-            <item index="5" class="java.lang.String" itemvalue="keyvault" />
-            <item index="6" class="java.lang.String" itemvalue="twinfieldtools" />
-            <item index="7" class="java.lang.String" itemvalue="numpy" />
-            <item index="8" class="java.lang.String" itemvalue="requests" />
-            <item index="9" class="java.lang.String" itemvalue="azurebatchload" />
-            <item index="10" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="1" class="java.lang.String" itemvalue="sentry-sdk" />
+            <item index="2" class="java.lang.String" itemvalue="pre-commit" />
+            <item index="3" class="java.lang.String" itemvalue="Easyflex" />
+            <item index="4" class="java.lang.String" itemvalue="keyvault" />
+            <item index="5" class="java.lang.String" itemvalue="azurebatchload" />
+            <item index="6" class="java.lang.String" itemvalue="df_to_azure" />
+            <item index="7" class="java.lang.String" itemvalue="openpyxl" />
           </list>
         </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="datetime.today.date" />
+        </list>
       </option>
     </inspection_tool>
   </profile>
